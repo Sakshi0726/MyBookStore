@@ -1,0 +1,1 @@
+<center><h1 style="color:red">Your Order has been placed successfully.<br/><br/><span style="color:black">For any Query Contact:<br/>sakshirastogi.2216@gmail.com</span></h1></center>
